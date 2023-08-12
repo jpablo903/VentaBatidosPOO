@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1691851862 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\actividades\problema 3\batidos poo\batidospoo\main.cpp
+	<iostream>
+	<string.h>
+	"recipiente.h"
+	"bidon.h"
+	"vaso.h"
+
+1691846200 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\actividades\problema 3\batidos poo\batidospoo\recipiente.h
+
+1691844974 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\actividades\problema 3\batidos poo\batidospoo\recipiente.cpp
+	"recipiente.h"
+
+1691846153 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\actividades\problema 3\batidos poo\batidospoo\bidon.cpp
+	"bidon.h"
+
+1691848439 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\actividades\problema 3\batidos poo\batidospoo\bidon.h
+	<string>
+	"recipiente.h"
+
+1691850704 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\actividades\problema 3\batidos poo\batidospoo\funciones.cpp
+
+1691850836 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\actividades\problema 3\batidos poo\batidospoo\vaso.h
+	"recipiente.h"
+	"bidon.h"
+
+1691848635 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\actividades\problema 3\batidos poo\batidospoo\vaso.cpp
+	"recipiente.h"
+	"bidon.h"
+	"vaso.h"
+
